@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm M. Abdul Mannan</h1>
 <h3 align="center">
-  Welcome to my GitHub! 🚀 I'm a **Full Stack Developer** with a passion for building innovative digital experiences. Whether it's creating intuitive websites, crafting scalable applications, or solving challenging problems, I thrive on turning ideas into reality with code.
+  Welcome to my GitHub! 🚀 I'm a ** Coder ** with a passion for building innovative digital experiences. Whether it's creating intuitive websites, crafting scalable applications, or solving challenging problems, I thrive on turning ideas into reality with code.
 </h3>
 
 <p align="center"> 

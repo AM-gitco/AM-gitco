@@ -1,24 +1,30 @@
 name: Generate Snake Graph
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allows you to run it manually
+  push:
+    branches:
+      - main # Runs automatically when you push to main
 
 jobs:
-  build:
+  generate:
+    permissions:
+      contents: write # This is required so the GITHUB_TOKEN can push the image
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+
     steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@v3
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk/yarn-build@v3
         with:
-          github_user_name: am-gitco
+          github_user_name: AM-gitco
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            
-      - name: push snake to output branch
+
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output

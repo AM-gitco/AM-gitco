@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20M.%20Abdul%20Mannan&fontSize=50&animation=fadeIn&fontAlignY=50" alt="Header Banner" />
   <br />
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&height=50&lines=I+build+cool+things+:)" alt="Subtitle" />
+  <br />
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="40">
 </div>
 <br />
 
@@ -10,32 +12,12 @@
   <img src="https://img.shields.io/github/followers/am-gitco?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
-<br />
 
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" height="30" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30" height="30" />
-  </a>
-  &nbsp;
-  <a href="mailto:abdulmannan32519@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="30" height="30" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AM-gitco" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" />
-  </a>
-</div>
-
-<br /><br />
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h2>✦ About Me</h2>
+      <h2>About Me</h2>
       <p>I am a passionate developer with a strong focus on building premium digital experiences. I thrive in modern tech stacks and love solving complex problems with elegant solutions.</p>
       <ul>
         <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" /> <b>Current Focus:</b> Advanced Full Stack Development (React & Node.js ecosystem).</li>
@@ -52,7 +34,7 @@
 
 <br />
 
-## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" height="30" align="top" /> Tech Stack & Tools
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35" align="top" /> Tech Stack & Tools
 
 <table align="center" border="0">
   <tr>
@@ -111,7 +93,13 @@
 
 <br />
 
-## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" align="top" /> What I Do
+<div align="center">
+  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60"/>
+</div>
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" align="top" /> What I Do
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -128,7 +116,7 @@
 
 <br />
 
-## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart" width="30" height="30" align="top" /> GitHub Activity
+## 📈 GitHub Activity
 
 <div align="center">
   <a href="https://github.com/AM-gitco">
@@ -153,7 +141,9 @@
 
 <br />
 
-## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" align="top" /> Showcase Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40" align="top" /> Showcase Projects
+
+<img align="right" width="150" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif" />
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -165,7 +155,7 @@
 
 <br />
 
-## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Snake.png" alt="Snake" width="30" height="30" align="top" /> Contribution Graph Snake
+## 🐍 Contribution Graph Snake
 
 <div align="center">
   <picture>
@@ -173,6 +163,33 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AM-gitco/AM-gitco/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AM-gitco/AM-gitco/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif" width="50" height="30" align="top"> Connect With Me</h3>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:abdulmannan32519@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AM-gitco" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="top" /> Thanks for visiting! Have a great day!</h3>
 </div>
 
 <br />

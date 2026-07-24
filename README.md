@@ -1,32 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20M.%20Abdul%20Mannan&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20Enthusiast&descAlignY=51&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20M.%20Abdul%20Mannan&fontSize=50&animation=fadeIn&fontAlignY=50" alt="Header Banner" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&height=50&lines=I+build+cool+things+:)" alt="Subtitle" />
 </div>
-
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Passionate+About+Modern+UI%2FUX;Turning+Ideas+Into+Code" alt="Typing SVG" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://github.com/am-gitco">
-    <img src="https://komarev.com/ghpvc/?username=am-gitco&label=Profile%20Views&color=000000&style=for-the-badge&logo=github" alt="Profile Views" /> 
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=am-gitco&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/am-gitco?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 <br />
 
 <div align="center">
   <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="30" height="30" />
   </a>
+  &nbsp;
   <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="30" height="30" />
   </a>
+  &nbsp;
   <a href="mailto:abdulmannan32519@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="30" height="30" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/AM-gitco" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="30" height="30" />
   </a>
 </div>
 
@@ -45,24 +45,73 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" width="180px" style="border-radius: 10px;" alt="Coding GIF" />
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220px" style="border-radius: 10px;" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
 <br />
 
-## ✦ Tech Stack & Tools
+## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="30" height="30" align="top" /> Tech Stack & Tools
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongo,postgres,tailwind,sass,bootstrap,figma&perline=6&theme=dark" alt="My Skills" />
-  </a>
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=next" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
+      <br>Tailwind
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="48" height="48" alt="Express.js" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
 
 <br />
 
-## ✦ What I Do
+## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="30" height="30" align="top" /> What I Do
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
@@ -79,7 +128,32 @@
 
 <br />
 
-## ✦ Showcase Projects
+## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart" width="30" height="30" align="top" /> GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/AM-gitco">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AM-gitco&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+  </a>
+</div>
+
+<br />
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Smile" width="30" height="30" align="top" /> Dev Joke of the Day</h3>
+      <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Book" width="30" height="30" align="top" /> Daily Quote</h3>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quotes" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" align="top" /> Showcase Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
@@ -91,7 +165,7 @@
 
 <br />
 
-## ✦ Contribution Graph Snake
+## ✦ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals%20and%20Nature/Snake.png" alt="Snake" width="30" height="30" align="top" /> Contribution Graph Snake
 
 <div align="center">
   <picture>
